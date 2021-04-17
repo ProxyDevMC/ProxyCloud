@@ -1,0 +1,302 @@
+-a
+-al
+-au +c
+-an
+-ba
+-be
+-bi
+-br +v
+-da
+-di
+-do
+-du
+-io
+-e
+-eu +c
+-fa
+bi
+ji
+dy
+rem
+fi
+fe
+lip
+mie
+def
+si
+sha
+er
+de
+dui
+sca
+be
+bo
+bu
+nul +v
+gu
+da
+au +c -c
+fri
+gus
++tus
++lus
++lius
++nus +v -c
++trex
++Dark
++Mike
++Like
++Boss
++ne +v -c
++fe
++Hold
++Cold
++Gold
++Ez
++Ez_
++Vise +v -c
++Fx
++pool
++x
++eher
++zus
++pous
++1337
++xx
++__
++X_
++x_
++_x
++_X
++es
++ius -c
++cus
++tor
++cio
++tin
+-Ael
+-Aer
+-af
+-ah
+-am
+-ama
+-jery
+-fyri
+-nit
+-hax
+-pi
+-de
+-be
+-ad
+-ew
+-lib
+-kons
+-erly
+-qwipl
+-zip
+-gi
+-git
+-heri
+-disi
+-di
+-si
+-po
+-lo
+-li
+-de
+-re
+-an
+-ang +v
+-ansr +v
+-cael
+-dae +c
+-dho
+-eir
+-fi
+-fir
+-la
+-seh
+-sel
+-ev
+-fis
+-hu
+-ha
+-gar
+-gil
+-ka
+-kan
+-ya
+-za
+-zy
+-mara
+-mai +c
+-lue +c
+-ny
+-she
+-sum
+-syl
+-sub
+ae +c -c
+ael -c
+dar
+deth +v
+dre -v
+drim -v
+dul
+hal
+mah
+ten
+que -v +c
+ria
+rail
+pin
+san
++dar
++deth
++dre
++drim
++dul
++get
++nes
++hal
++ten
++ran
++ess
++san
++las
++lian
++evar
+nul +v
+gu
+da
+au +c -c
+fri
+gus
++tus
++lus
++lius
++nus +v -c
++trex
++Dark
++Mike
++Like
++Boss
++ne +v -c
++fe
++Hold
++Cold
++Gold
++Ez
++Ez_
++Vise +v -c
++Fx
++pool
++x
++eher
++zus
++pous
++1337
++xx
++__
++X_
++x_
++_x
++_X
++es
++ius -c
++cus
++tor
++cio
++tin
+-Ael
+-Aer
+-af
+-ah
+-am
+-ama
+-jery
+-fyri
+-nit
+-hax
+-pi
+-de
+-be
+-ad
+-ew
+-lib
+-kons
+-erly
+-qwipl
+-zip
+-gi
+-git
+-heri
+-disi
+-di
+-si
+-po
+-lo
+-li
+-de
+-re
+-an
+-ang +v
+-ansr +v
+-cael
+-dae +c
+-dho
+-eir
+-fi
+-fir
+-la
+-seh
+-sel
+-ev
+-fis
+-hu
+-ha
+-gar
+-gil
+-ka
+-kan
+-ya
+-za
+-zy
+-mara
+-mai +c
+-lue +c
+-ny
+-she
+-sum
+-syl
+-sub
+ae +c -c
+ael -c
+dar
+deth +v
+dre -v
+drim -v
+dul
+hal
+mah
+ten
+que -v +c
+ria
+rail
+pin
+san
++dar
++deth
++dre
++drim
++dul
++get
++nes
++hal
++ten
++ran
++ess
++san
++las
++lian
++evar
